@@ -12,6 +12,7 @@ File contents: Dr Katie Lane
                Walsh spur
                Leonport
                RM1 2TJ
+               
 Terminal Command: python3 document_updater.py target_directory
 
 File name added to allowlist
