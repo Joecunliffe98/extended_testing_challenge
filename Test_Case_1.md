@@ -7,11 +7,15 @@ Test if a file in orignals folder is moved to finals folder when file name is in
 ### Input:
 
 File name: Lane
-File contents: Dr Katie Lane
+
+File contents: 
+
+               Dr Katie Lane
                Flat 17i
                Walsh spur
                Leonport
                RM1 2TJ
+               
 Terminal Command: python3 document_updater.py target_directory
 
 File name added to allowlist
