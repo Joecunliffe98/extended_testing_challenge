@@ -7,7 +7,10 @@ Test if a file in originals folder is moved to finals folder when file name is i
 ### Input:
 
 File name: Wilson
-File contents: Mr Josh Wilson
+
+File contents: 
+
+               Mr Josh Wilson
                34 Glenn coves
                Gilbertburgh
                IG4 0JE
