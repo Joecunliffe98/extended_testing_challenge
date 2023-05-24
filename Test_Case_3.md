@@ -7,11 +7,15 @@ Test if a file in originals folder can be updated using the update folder and mo
 ### Input:
 
 File name: Brown
-File contents: Dr Victoria Brown
+
+File contents: 
+
+               Dr Victoria Brown
                Flat 18G
                Mason tunnel
                Justinton
                E68 6RQ
+               
 Terminal Command: python3 document_updater.py target_directory
 
 File name added to allowlist
