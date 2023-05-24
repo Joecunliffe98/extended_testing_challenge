@@ -7,7 +7,10 @@ When a file is in the originals folder it cannot be put into the finals folder e
 ### Input:
 
 File name: Lane
-File contents: Dr Katie Lane
+
+File contents: 
+
+               Dr Katie Lane
                Flat 17i
                Walsh spur
                Leonport
